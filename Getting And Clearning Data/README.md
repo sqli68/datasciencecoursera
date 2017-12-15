@@ -1,6 +1,6 @@
 ## Class Project for "Getting and Cleaning Data"
 
-The class project for [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project) was to prepare tidy data from data files collected from [Human Actitivities from Samsung Galaxy S smartphone](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and output a tidy data set.
+The class project for [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project) was to prepare tidy data from data files collected from Human Actitivities from Samsung Galaxy S smartphone(http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and output a tidy data set.
 
 **You should create one R script called run_analysis.R that does the following:**
 
