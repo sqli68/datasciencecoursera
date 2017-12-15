@@ -20,8 +20,8 @@ This code book described the data used in this project, and the processing steps
 * `features.txt`: Names of the 561 features which are the movement measurements.
 * `activity_labels.txt`: IDs and Names for each of the 6 activities.
 
-*Misc:*
-`features_info.txt`: More information about the features.
+#### Misc
+* `features_info.txt`: More information about the features.
 
 
 More information about the files is available in `README.txt`.  
