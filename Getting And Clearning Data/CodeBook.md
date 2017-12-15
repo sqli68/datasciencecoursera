@@ -4,7 +4,8 @@ This code book described the data used in this project, and the processing steps
 
 ### Summary
 
-30 volunteers performed 6 different activities in rain and test. The data captured their various movements measurements called features using a smart phone.
+30 volunteers performed 6 different activities in rain and test. The data captured their various movements measurements called features using a smart phone. A tidy data set was created containing the mean of each feature for each subject and each activity.
+
 
 ### Input Data files
 
@@ -24,7 +25,7 @@ This code book described the data used in this project, and the processing steps
 * `features_info.txt`: more information about the features.
 
 ### Output Data file
-The script creates a CSV file containging the resulting tidy data set, called [tydy_data.csv](tidy_data.csv) 
+The script creates a CSV file containging the resulting tidy data set, called [tidy_data.csv](tidy_data.csv) 
 
 ### Processing steps
 
@@ -35,4 +36,4 @@ The script creates a CSV file containging the resulting tidy data set, called [t
 5. The tidy data set was output to a CSV file.
 
 
-More information about the files is available in `README.txt`.  
+More information about the files is available in  [README.md](README.md).  
