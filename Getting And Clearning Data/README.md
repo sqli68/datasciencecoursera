@@ -1,8 +1,8 @@
 ## Class Project for "Getting and Cleaning Data"
 
-The class project for [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project) was to prepare tidy data from data files collected from Human Actitivities from Samsung Galaxy S smartphone(http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and output a tidy data set.
+The class project for [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project) was to prepare and process tidy data from data files collected from Human Actitivities from Samsung Galaxy S smartphone(http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and create a tidy data set.
 
-**You should create one R script called run_analysis.R that does the following:**
+**Create one R script (called run_analysis.R) that does the following steps:**
 
 * Merges train and test data sets to create one data set.
 * Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -24,9 +24,9 @@ The class project for [Getting and Cleaning Data](https://www.coursera.org/learn
 * `y_train.txt`
 * `y_test.txt`
 
-3. Run the R script ([run_analysis.R](run_analysis.R))that reads the above data files from directory "UCI HAR Dataset" and processes them into a tidy data set.
+3. Run the R script [run_analysis.R](run_analysis.R)that reads and processes the above data files from directory "UCI HAR Dataset" and output them into a tidy data set saved to a text file.
 
-* Note it requires the reshape package to call function melt and cast to generate the desired tidy data set.
+* Note this script requires the reshape package to call function melt and cast to generate the desired tidy data set.
 
 **The output of the R script is a tidy data set, called [tidy_data.csv](tidy_data.csv).**
 
