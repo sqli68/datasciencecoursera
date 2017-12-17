@@ -28,6 +28,6 @@ The class project for [Getting and Cleaning Data](https://www.coursera.org/learn
 
 * Note this script requires the reshape package to call function melt and cast to generate the desired tidy data set.
 
-**The output of the R script is a tidy data set, called [tidy_data.csv](tidy_data.csv).**
+**The output of the R script is a tidy data set, called [tidy_data.txt](tidy_data.txt).**
 
 **The project code book is [CodeBook.md](CodeBook.md).**

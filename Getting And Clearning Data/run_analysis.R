@@ -48,6 +48,6 @@ melted_dt <- melt(mean_std_dt, id.vars=c("SubjectID", "Activity"))
 tidy_dt <- cast(melted_dt, SubjectID + Activity ~ variable, mean)
 
 #dump the resulted data set to a file called tidy_AveData.txt
-write.table(tidy_dt, file="tidy_data.csv", quote=F, sep = ",", row.names=FALSE)
+write.table(tidy_dt, file="tidy_data.txt", quote=F, sep = ",", row.names=FALSE)
 
 
